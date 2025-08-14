@@ -1,4 +1,4 @@
-## A Supermarket Object Oriented Programing app 
+## A Supermarket Object Oriented Programming app 
                                                  ┌──────────────────────┐
                                                  │      Product         │  (base class)
                                                  │ - name: string       │
